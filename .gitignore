@@ -1,7 +1,13 @@
 Thumbs.db
-a.out
 .vs
 .DS_Store
 [Dd]ebug*/
 *.sln
 *.vcxproj*
+*.o
+*.obj
+*.out
+*.exe
+*.i
+*.asm
+*.s
